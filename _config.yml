@@ -1,16 +1,16 @@
-layout_spectrum: 0.06328521627591609
-typography_spectrum: 0.4028294699547794
+layout_spectrum: 0.448059180650565
+typography_spectrum: 0.9169737163519874
 color:
-  brandStrength: 0.476945034147858
-  lightness: 0.20817624778293148
-  saturation: 0.05899992308505617
-  rhythmicContrast: 0.9483506705267077
+  brandStrength: 0.31116346367533404
+  lightness: 0.7504656281815565
+  saturation: 0.11094282228527313
+  rhythmicContrast: 0.7493418535117133
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: greenday
 colors:
   brandColors:
