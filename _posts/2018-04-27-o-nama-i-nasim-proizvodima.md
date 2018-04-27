@@ -1,18 +1,16 @@
 ---
 inFeed: true
 description: O nama i našim proizvodima
-dateModified: '2018-04-27T11:27:33.127Z'
-datePublished: '2018-04-27T11:27:33.830Z'
+dateModified: '2018-04-27T11:27:15.287Z'
+datePublished: '2018-04-27T11:27:15.922Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-sourcePath: _posts/2018-04-27-o-nama-i-nasim-proizvodima.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2018-04-27T11:27:15.922Z'
-url: o-nama-i-nasim-proizvodima/index.html
-_type: Article
+sourcePath: _posts/2018-04-27-o-nama-i-nasim-proizvodima.md
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c800a52-237e-4081-9d48-9b7ea5dc04a2.jpg)
@@ -22,8 +20,6 @@ O nama i našim proizvodima
 Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten. Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
 
 Danima sam morala proučavati namirnice, načine kuhanja, deklaracije, razmjenjivati razna iskustva, testirati i probati.
-
----
 
 Bilo je vrlo teško raditi s brašnima koja prirodno nemaju glutena jer ona su jako teška za oblikovanje, a i približiti okuse uobičajnoj hrani je, takodjer, bio pravi izazov, jer organska i zdrava hrana je nešto na što ljudi nisu baš navikli.
 
