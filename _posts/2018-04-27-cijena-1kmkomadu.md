@@ -1,9 +1,13 @@
 ---
 inFeed: true
-description: MEDENJACI
-dateModified: '2018-04-27T12:42:11.998Z'
-datePublished: '2018-04-27T12:42:12.847Z'
-title: 'CIJENA: 1KM/komadu'
+description: >-
+  Sastojci: Rižino integralno brašno, Kukuruzni škrob, Maslac, Jaje, Stevia, BIO
+  Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za
+  Pecivo. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih
+  šećera. PRAVIMO PO NARUDŽBI.
+dateModified: '2018-04-27T12:42:45.772Z'
+datePublished: '2018-04-27T12:42:46.463Z'
+title: MEDENJACI
 author: []
 publisher: {}
 via: {}
@@ -13,7 +17,7 @@ datePublishedOriginal: '2018-04-27T12:40:42.050Z'
 _type: Blurb
 
 ---
-MEDENJACI
+# MEDENJACI
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b5467e7-01f5-4824-b9c2-0e955d1b4540.jpg)
 
 Sastojci: Rižino integralno brašno, Kukuruzni škrob, Maslac, Jaje, Stevia, BIO Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za Pecivo. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
