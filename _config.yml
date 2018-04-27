@@ -19,10 +19,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Kako naručiti
-    id: 931a18e1-d6ce-4e23-ad6c-258cd8a5419f
-    type: content
 title: Green Day Food
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
