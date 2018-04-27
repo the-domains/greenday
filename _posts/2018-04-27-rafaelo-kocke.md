@@ -6,8 +6,8 @@ description: >-
   vrhnje, Ekstra djevičansko kokosovo ulje, Med, BIO Kokosovo brašno. Ovi
   sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO
   NARUDŽBI.
-dateModified: '2018-04-27T12:35:41.059Z'
-datePublished: '2018-04-27T12:35:41.933Z'
+dateModified: '2018-04-27T12:35:42.499Z'
+datePublished: '2018-04-27T12:35:43.076Z'
 title: RAFAELO KOCKE
 author: []
 publisher: {}
