@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-04-27T11:20:35.929Z'
-datePublished: '2018-04-27T11:20:36.500Z'
+dateModified: '2018-04-27T12:03:57.609Z'
+datePublished: '2018-04-27T12:03:58.345Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
@@ -24,7 +24,9 @@ Sastojci: Šumsko voće (malina, jagoda, borovnica, crveni i crni ribiz, kupina)
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.  
 PRAVIMO PO NARUDŽBI.
 
-### **Težina: 1500 g. CIJENA: 35 KM**
+### **Težina: 1500 g**
+
+### **CIJENA: 35 KM**
 [Vidi više][0]
 
 [0]: https://www.facebook.com/greenday.kolaci.peciva/posts/238110223596379
