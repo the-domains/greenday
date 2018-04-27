@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-04-27T13:21:04.890Z'
-datePublished: '2018-04-27T13:21:05.528Z'
+dateModified: '2018-04-27T13:41:49.786Z'
+datePublished: '2018-04-27T13:41:50.430Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ _type: Blurb
 
 Lagana i osvježavajuća, idealna slastica za toplije dane.
 
-Sastojci: Šumsko voće (malina, jagoda, borovnica, crveni i crni ribiz, kupina), Svježi krem sir, Bio jaja, Maslac, Stevia, Integralno rižino brašno, Bijelo rižino brašno, Krumpirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Sok od limuna, Burbon vanilija, Agar agar ili Goveđa želatina.
+**Sastojci:** Šumsko voće (malina, jagoda, borovnica, crveni i crni ribiz, kupina), Svježi krem sir, Bio jaja, Maslac, Stevia, Integralno rižino brašno, Bijelo rižino brašno, Krumpirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Sok od limuna, Burbon vanilija, Agar agar ili Goveđa želatina.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.  
 PRAVIMO PO NARUDŽBI.
