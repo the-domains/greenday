@@ -5,9 +5,9 @@ description: >-
   jagode, savšena kombinacija kojoj je teško odoljeti.Sastojci: BIO Jaja,
   Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo
   rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo,
-  Jagode, BIO Mlijeko. 
-dateModified: '2018-04-27T11:40:31.637Z'
-datePublished: '2018-04-27T11:40:32.436Z'
+  Jagode (, BIO Mlijeko.
+dateModified: '2018-04-27T12:03:26.634Z'
+datePublished: '2018-04-27T12:03:27.452Z'
 title: ČOKOLADNA TORTA S JAGODAMA
 author: []
 publisher: {}
@@ -22,11 +22,13 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3eea2fcb-7859-47ca-aead-8c02952038c6.jpg)
 
 Stiglo nam je proljeće a sa njim slasne i sočne domaće jagode. Čokolada i jagode, savšena kombinacija kojoj je teško odoljeti.  
-Sastojci: BIO Jaja, Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Jagode, BIO Mlijeko. 
+Sastojci: BIO Jaja, Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Jagode (, BIO Mlijeko.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
-## Težina 1500 g. CIJENA: 35 KM
+## Težina 1500 g. 
+
+## CIJENA: 35 KM
 [Vidi više][0]
 
 [0]: https://www.facebook.com/greenday.kolaci.peciva/posts/242481293159272
