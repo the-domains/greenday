@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten.
   Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
-dateModified: '2018-04-27T11:28:25.588Z'
-datePublished: '2018-04-27T11:28:26.193Z'
+dateModified: '2018-04-27T11:28:38.713Z'
+datePublished: '2018-04-27T11:28:39.309Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-04-27T11:27:15.922Z'
 url: o-nama-i-nasim-proizvodima/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c800a52-237e-4081-9d48-9b7ea5dc04a2.jpg)
