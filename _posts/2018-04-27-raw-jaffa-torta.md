@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Raw slastice su napravljene od sirovih prirodnih i kvalitetnih sastojaka bez
   termičke obrade. One su zdrave, zasitne, energetske i bogate okusom.
-dateModified: '2018-04-27T13:21:04.890Z'
-datePublished: '2018-04-27T13:21:05.518Z'
+dateModified: '2018-04-27T13:42:23.267Z'
+datePublished: '2018-04-27T13:42:24.180Z'
 title: RAW JAFFA TORTA
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Blurb
 
 Raw slastice su napravljene od sirovih prirodnih i kvalitetnih sastojaka bez termičke obrade. One su zdrave, zasitne, energetske i bogate okusom.
 
-Sastojci: Sirovi indijski oraščić, Kokosove ljuskice, Ekstra djevičansko kokosovo ulje, Sirovi kakao prah, Svježe datulje, Prirodni sok od naranče, BIO Narančina korica, BIO med, Agar-agar prah. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
+**Sastojci:** Sirovi indijski oraščić, Kokosove ljuskice, Ekstra djevičansko kokosovo ulje, Sirovi kakao prah, Svježe datulje, Prirodni sok od naranče, BIO Narančina korica, BIO med, Agar-agar prah. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
 ### TEŽINA: 1100 g
 
