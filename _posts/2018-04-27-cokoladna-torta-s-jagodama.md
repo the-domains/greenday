@@ -6,8 +6,8 @@ description: >-
   Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo
   rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo,
   Jagode (, BIO Mlijeko.
-dateModified: '2018-04-27T12:03:49.115Z'
-datePublished: '2018-04-27T12:03:49.727Z'
+dateModified: '2018-04-27T12:04:57.768Z'
+datePublished: '2018-04-27T12:04:58.364Z'
 title: ČOKOLADNA TORTA S JAGODAMA
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ Sastojci: BIO Jaja, Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino 
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
-## Težina 1500 g
+## TEĆINA: 1500 g
 
 ## CIJENA: 35 KM
 [Vidi više][0]
