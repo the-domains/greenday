@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten.
   Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
-dateModified: '2018-04-27T14:25:13.650Z'
-datePublished: '2018-04-27T14:25:14.662Z'
+dateModified: '2018-04-27T14:26:07.384Z'
+datePublished: '2018-04-27T14:26:08.045Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
@@ -81,12 +81,4 @@ Za one koji su alergični na pojedine sastojke, postoji mogućnost zamjene namir
 
 Vaš Green Day/Mostar
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19682937-18"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-    
-      gtag('config', 'UA-19682937-18');
-    </script>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxljj1rwzAQhnf_imsW21BZpIU2iT9CoNCla6fS4SIriowtGZ2MME3_e5UUDKXLDfc-99xb3TEGr709Yg-kvQSPCjIVZ9FRDjGzVvUSDgb72WtBwFiTVCScHj0gzUYAOVGvzt6PtOM8hFCo2010DGhQSVcIO_Crk3e01239fmDr7dPmYfv4zNabVVPxX98ibhKAoE1rQ9GixzecpYP6_-pygY_PMsKnyQivrYHrlyz_WpBinOicoVPTII2nvPyO9A1KO0rvwcgAL-hlludlskTCmpNWMU7_Vk0jtJT9AWuEZY0" height="244" style=""></iframe>
