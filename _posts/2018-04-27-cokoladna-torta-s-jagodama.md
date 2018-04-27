@@ -6,8 +6,8 @@ description: >-
   Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo
   rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo,
   Jagode (, BIO Mlijeko.
-dateModified: '2018-04-27T12:04:57.768Z'
-datePublished: '2018-04-27T12:04:58.364Z'
+dateModified: '2018-04-27T12:06:55.774Z'
+datePublished: '2018-04-27T12:06:56.068Z'
 title: ČOKOLADNA TORTA S JAGODAMA
 author: []
 publisher: {}
