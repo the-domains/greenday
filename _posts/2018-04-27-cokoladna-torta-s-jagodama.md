@@ -2,12 +2,12 @@
 inFeed: true
 description: >-
   Stiglo nam je proljeće a sa njim slasne i sočne domaće jagode. Čokolada i
-  jagode, savšena kombinacija kojoj je teško odoljeti. Sastojci: BIO Jaja,
+  jagode, savšena kombinacija kojoj je teško odoljeti.Sastojci: BIO Jaja,
   Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo
   rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo,
   Jagode (, BIO Mlijeko.
-dateModified: '2018-04-27T13:43:56.065Z'
-datePublished: '2018-04-27T13:43:56.698Z'
+dateModified: '2018-04-27T13:49:28.623Z'
+datePublished: '2018-04-27T13:49:29.459Z'
 title: ČOKOLADNA TORTA S JAGODAMA
 author: []
 publisher: {}
