@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten.
   Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
-dateModified: '2018-04-27T11:59:04.133Z'
-datePublished: '2018-04-27T11:59:04.939Z'
+dateModified: '2018-04-27T12:06:55.774Z'
+datePublished: '2018-04-27T12:06:56.071Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
