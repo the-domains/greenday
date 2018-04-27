@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: MEDENJACI
-dateModified: '2018-04-27T12:40:41.198Z'
-datePublished: '2018-04-27T12:40:42.050Z'
+dateModified: '2018-04-27T12:42:11.998Z'
+datePublished: '2018-04-27T12:42:12.847Z'
 title: 'CIJENA: 1KM/komadu'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-04-27-cijena-1kmkomadu.md
 starred: false
 datePublishedOriginal: '2018-04-27T12:40:42.050Z'
-sourcePath: _posts/2018-04-27-cijena-1kmkomadu.md
 _type: Blurb
 
 ---
@@ -19,3 +19,6 @@ MEDENJACI
 Sastojci: Rižino integralno brašno, Kukuruzni škrob, Maslac, Jaje, Stevia, BIO Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za Pecivo. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
 ### CIJENA: 1KM/komadu
+[Vidi više][0]
+
+[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/233616857379049
