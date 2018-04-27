@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten.
   Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
-dateModified: '2018-04-27T14:13:19.669Z'
-datePublished: '2018-04-27T14:13:20.977Z'
+dateModified: '2018-04-27T14:25:13.650Z'
+datePublished: '2018-04-27T14:25:14.662Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
@@ -80,3 +80,13 @@ Za one koji su alergični na pojedine sastojke, postoji mogućnost zamjene namir
 **Besplatna dostava naših proizvoda na području Mostara.**
 
 Vaš Green Day/Mostar
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19682937-18"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-19682937-18');
+    </script>
