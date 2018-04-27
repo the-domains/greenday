@@ -57,6 +57,9 @@ purpose:
   - type: contact
     url: 'tel:+38763424246'
     label: Call +38763424246
+  - type: internal
+    label: O nama
+    item: 0b4c415d-5acd-41aa-9dbc-b4fb3774791a
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d64bd6c-9f9a-4028-81b3-fa14958209ec.png
 favicon: >-
