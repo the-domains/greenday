@@ -54,9 +54,6 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Bez glutena, šećera, rafiniranih ulja i aditiva'
 purpose:
-  - type: external
-    url: 'https://www.facebook.com/greenday.kolaci.peciva/'
-    label: 'https://www.facebook.com/greenday.kolaci.peciva/'
   - type: contact
     url: 'tel:+38763424246'
     label: Call +38763424246
