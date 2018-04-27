@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-04-27T11:13:57.135Z'
-datePublished: '2018-04-27T11:13:57.712Z'
+dateModified: '2018-04-27T11:16:30.804Z'
+datePublished: '2018-04-27T11:16:31.535Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
@@ -25,5 +25,6 @@ Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.
 PRAVIMO PO NARUDŽBI.
 
 Težina: 1500 g. CIJENA: 35 KM
+[Naruči][0]
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdUNtqwzAM_ZUg6N6WK13WtO7Yy75gP-DaSmzqWEZ2G_L385I9DQQ6nBtIFzuynLGIrASYlEIcqmpZlnKUCm9E91LRXAX3mKyPVaCYymDCh2EcxWY_dJ-H9ivP_1CmJkb0Wq7lnZxUtgyo7FNm4bcn5t12701Tt213PL11_ellsToZcaxrKHYIGzZoJ5ME9H0DRUyrQwE3Yo08ePJ4pify6GgZjNUaffYoJuesnwR4gmI7cQ8IyH3SZfM3Sx-DZPRqFZD4gX-CgEzxGhLq1xm1lXC9VPubrj_aBGg6" height="244" style=""></iframe>
+[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/238110223596379
