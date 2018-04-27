@@ -20,9 +20,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: O nama
-    id: d82c9618-2f65-403b-bfd6-acaf26fd007a
-    type: content
   - name: Kako naručiti
     id: 931a18e1-d6ce-4e23-ad6c-258cd8a5419f
     type: content
