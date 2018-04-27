@@ -11,7 +11,7 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
-name: Green Day
+name: Green Day / Zdrava Hrana
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -45,7 +45,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Bez glutena, šećera, rafiniranih ulja i aditiva. '
+description: 'Bez glutena, bez šećera, bez rafiniranih ulja i aditiva. '
 purpose:
   - type: contact
     url: 'tel:+38763424246'
