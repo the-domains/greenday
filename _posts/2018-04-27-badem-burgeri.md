@@ -3,15 +3,15 @@ inFeed: true
 description: >-
   Keksići bez brašna, bogatog okusa badema. Idealni kao užina, savršeni uz kavu
   ili čaj.
-dateModified: '2018-04-27T12:58:46.508Z'
-datePublished: '2018-04-27T12:58:47.044Z'
+dateModified: '2018-04-27T13:21:04.890Z'
+datePublished: '2018-04-27T13:21:05.517Z'
 title: BADEM BURGERI
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-04-27-badem-burgeri.md
 starred: false
 datePublishedOriginal: '2018-04-27T12:58:47.044Z'
-sourcePath: _posts/2018-04-27-badem-burgeri.md
 _type: Blurb
 
 ---
