@@ -2,12 +2,12 @@
 inFeed: true
 description: >-
   Stiglo nam je proljeće a sa njim slasne i sočne domaće jagode. Čokolada i
-  jagode, savšena kombinacija kojoj je teško odoljeti.Sastojci: BIO Jaja,
+  jagode, savšena kombinacija kojoj je teško odoljeti. Sastojci: BIO Jaja,
   Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo
   rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo,
   Jagode (, BIO Mlijeko.
-dateModified: '2018-04-27T13:21:04.890Z'
-datePublished: '2018-04-27T13:21:05.536Z'
+dateModified: '2018-04-27T13:43:56.065Z'
+datePublished: '2018-04-27T13:43:56.698Z'
 title: ČOKOLADNA TORTA S JAGODAMA
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3eea2fcb-7859-47ca-aead-8c02952038c6.jpg)
 
 Stiglo nam je proljeće a sa njim slasne i sočne domaće jagode. Čokolada i jagode, savšena kombinacija kojoj je teško odoljeti.  
-Sastojci: BIO Jaja, Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Jagode (, BIO Mlijeko.
+**Sastojci:** BIO Jaja, Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Jagode (, BIO Mlijeko.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
