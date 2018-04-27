@@ -2,20 +2,20 @@
 inFeed: true
 description: >-
   Savršen sklad gorkog, slatkog i kiselog okusa koji se nadopunjuju i stvaraju
-  čokoladnu čaroliju. Sastojci: BIO Jaja, Maslac, Stevia, BIO Kakao, Kakao
+  čokoladnu čaroliju.Sastojci: BIO Jaja, Maslac, Stevia, BIO Kakao, Kakao
   maslac, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob,
   Tapioka škrob, Bezglutenski prašak za pecivo, Višnje (moguća izrada i sa
   drugim vrstama voća), BIO Mlijeko. Ovi sastojci prirodno ne sadrže gluten. Bez
-  dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI. 
-dateModified: '2018-04-27T13:05:54.841Z'
-datePublished: '2018-04-27T13:05:55.446Z'
+  dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
+dateModified: '2018-04-27T13:21:04.890Z'
+datePublished: '2018-04-27T13:21:05.430Z'
 title: ČOKOLADNA TORTA S VIŠNJAMA
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-04-27-cokoladna-torta-s-visnjama.md
 starred: false
 datePublishedOriginal: '2018-04-27T13:05:55.446Z'
-sourcePath: _posts/2018-04-27-cokoladna-torta-s-visnjama.md
 _type: Blurb
 
 ---
