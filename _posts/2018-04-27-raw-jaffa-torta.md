@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Raw slastice su napravljene od sirovih prirodnih i kvalitetnih sastojaka bez
   termičke obrade. One su zdrave, zasitne, energetske i bogate okusom.
-dateModified: '2018-04-27T13:42:23.267Z'
-datePublished: '2018-04-27T13:42:24.180Z'
+dateModified: '2018-04-27T13:42:24.941Z'
+datePublished: '2018-04-27T13:42:25.391Z'
 title: RAW JAFFA TORTA
 author: []
 publisher: {}
