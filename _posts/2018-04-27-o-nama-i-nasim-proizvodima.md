@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten.
   Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
-dateModified: '2018-04-27T11:55:53.825Z'
-datePublished: '2018-04-27T11:55:54.546Z'
+dateModified: '2018-04-27T11:57:47.865Z'
+datePublished: '2018-04-27T11:57:48.631Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
@@ -54,7 +54,7 @@ Također koristimo i hranu iz domaćeg uzgoja koju možemo kupiti na području M
 
 Prirodne namirnice bez glutena, Certificirane namirnice bez glutena i Certifiicirane BIO namirnice koje koristimo su do deset puta skuplje od uobičajnih te iz toga razloga su i cijene naših proizvoda skuplje od uobičajne hrane.
 
-Naša misija je pomoći približiti našim klijentima zdravu hranu kako bi regulirali tjelesnu težinu, ovisnost o šećeru i kako bi se zdravo hranili. 
+Naša misija je pomoći približiti našim klijentima zdravu hranu kako bi regulirali tjelesnu težinu, ovisnost o šećeru i kako bi se zdravo hranili.
 
 ----------------------------------------------------------  
 NAPOMENA:  
@@ -73,6 +73,10 @@ SASTOJCI KOJE KORISTIMO:
 * Zgušnjivač: Agar-Agar, Psylium
 * Začini: Burbon vanilija, Cimet
 * Kvasac: Prirodni bez glutena
-* Ostali dodaci iz prirodnog i domaćeg uzgoja: Mlijeko, Jaja, Sir, Med, Voće i povrće.---------------------------------------------------Za one koji su alergični na pojedine sastojke, postoji mogućnost zamjene namirnica prema vašim željama i uz dogovor.-------------------------------------------------**Besplatna dostava naših proizvoda na području Mostara.**-------------------------------------------------
+* Ostali dodaci iz prirodnog i domaćeg uzgoja: Mlijeko, Jaja, Sir, Med, Voće i povrće.
+
+Za one koji su alergični na pojedine sastojke, postoji mogućnost zamjene namirnica prema vašim željama i uz dogovor.
+
+**Besplatna dostava naših proizvoda na području Mostara.**
 
 Vaš Green Day/Mostar
