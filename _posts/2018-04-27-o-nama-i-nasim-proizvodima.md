@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten.
   Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
-dateModified: '2018-04-27T14:26:37.053Z'
-datePublished: '2018-04-27T14:26:42.937Z'
+dateModified: '2018-04-27T14:26:53.604Z'
+datePublished: '2018-04-27T14:26:54.282Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ via: {}
 sourcePath: _posts/2018-04-27-o-nama-i-nasim-proizvodima.md
 hasPage: true
 starred: false
-datePublishedOriginal: '2018-04-27T14:26:42.937Z'
+datePublishedOriginal: '2018-04-27T11:27:15.922Z'
 url: o-nama-i-nasim-proizvodima/index.html
 _type: Blurb
 
@@ -80,5 +80,3 @@ Za one koji su alergični na pojedine sastojke, postoji mogućnost zamjene namir
 **Besplatna dostava naših proizvoda na području Mostara.**
 
 Vaš Green Day/Mostar
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxljj1rwzAQhnf_imsW21BZpIU2iT9CoNCla6fS4SIriowtGZ2MME3_e5UUDKXLDfc-99xb3TEGr709Yg-kvQSPCjIVZ9FRDjGzVvUSDgb72WtBwFiTVCScHj0gzUYAOVGvzt6PtOM8hFCo2010DGhQSVcIO_Crk3e01239fmDr7dPmYfv4zNabVVPxX98ibhKAoE1rQ9GixzecpYP6_-pygY_PMsKnyQivrYHrlyz_WpBinOicoVPTII2nvPyO9A1KO0rvwcgAL-hlludlskTCmpNWMU7_Vk0jtJT9AWuEZY0" height="244" style=""></iframe>
