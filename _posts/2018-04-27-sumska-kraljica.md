@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-04-27T12:03:57.609Z'
-datePublished: '2018-04-27T12:03:58.345Z'
+dateModified: '2018-04-27T12:05:39.281Z'
+datePublished: '2018-04-27T12:05:40.166Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ Sastojci: Šumsko voće (malina, jagoda, borovnica, crveni i crni ribiz, kupina)
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.  
 PRAVIMO PO NARUDŽBI.
 
-### **Težina: 1500 g**
+### **TEŽINA: 1500 g**
 
 ### **CIJENA: 35 KM**
 [Vidi više][0]
