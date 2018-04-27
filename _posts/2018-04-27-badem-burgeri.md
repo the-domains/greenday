@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Keksići bez brašna, bogatog okusa badema. Idealni kao užina, savršeni uz kavu
   ili čaj.
-dateModified: '2018-04-27T13:21:04.890Z'
-datePublished: '2018-04-27T13:21:05.517Z'
+dateModified: '2018-04-27T13:41:16.900Z'
+datePublished: '2018-04-27T13:41:17.566Z'
 title: BADEM BURGERI
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Blurb
 
 Keksići bez brašna, bogatog okusa badema. Idealni kao užina, savršeni uz kavu ili čaj.
 
-Sastojci: Badem, Bademovo brašno, Maslac, Ekstra djevičansko kokosovo ulje, Kokosovo mlijeko, Jaja, Stevia, BIO Burbon vanilija u prahu, Komadići čokolade sa 75 % kakaa, Soda bikarbon, Morska sol. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
+**Sastojci:** Badem, Bademovo brašno, Maslac, Ekstra djevičansko kokosovo ulje, Kokosovo mlijeko, Jaja, Stevia, BIO Burbon vanilija u prahu, Komadići čokolade sa 75 % kakaa, Soda bikarbon, Morska sol. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
 ### CIJENA: 1KM/ komadu
 [Vidi više][0]
