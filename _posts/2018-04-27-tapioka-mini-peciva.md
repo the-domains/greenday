@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Ova “pufnasta” peciva odlična su za doručak, užinu ili kao fingerfood.'
-dateModified: '2018-04-27T13:43:00.765Z'
-datePublished: '2018-04-27T13:43:01.362Z'
+dateModified: '2018-04-27T13:49:28.623Z'
+datePublished: '2018-04-27T13:49:29.496Z'
 title: TAPIOKA MINI PECIVA
 author: []
 publisher: {}
