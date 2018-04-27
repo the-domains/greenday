@@ -5,8 +5,8 @@ description: >-
   Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za
   Pecivo. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih
   šećera. PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-27T12:42:45.772Z'
-datePublished: '2018-04-27T12:42:46.463Z'
+dateModified: '2018-04-27T13:21:04.890Z'
+datePublished: '2018-04-27T13:21:05.529Z'
 title: MEDENJACI
 author: []
 publisher: {}
