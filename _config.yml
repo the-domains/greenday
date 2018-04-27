@@ -1,0 +1,75 @@
+layout_spectrum: 0.06328521627591609
+typography_spectrum: 0.4028294699547794
+color:
+  brandStrength: 0.476945034147858
+  lightness: 0.20817624778293148
+  saturation: 0.05899992308505617
+  rhythmicContrast: 0.9483506705267077
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: greenday
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: O nama
+    id: d82c9618-2f65-403b-bfd6-acaf26fd007a
+    type: content
+  - name: Kako naručiti
+    id: 931a18e1-d6ce-4e23-ad6c-258cd8a5419f
+    type: content
+  - name: Slastice
+    id: 358eb049-544c-43fb-a830-a4fa89ee624b
+    type: content
+  - name: Zanimljivosti
+    id: 8bda1f0e-2225-497c-8232-7bd62a85bc6e
+    type: content
+title: Green Day
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4790965f-8b7c-4e72-b2ec-95844aca5857.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4790965f-8b7c-4e72-b2ec-95844aca5857.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Bez glutena, šećera, rafiniranih ulja i aditiva'
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/greenday.kolaci.peciva/'
+    label: 'https://www.facebook.com/greenday.kolaci.peciva/'
+  - type: contact
+    url: 'tel:+38763424246'
+    label: Call +38763424246
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d64bd6c-9f9a-4028-81b3-fa14958209ec.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bba981-5a12-4850-b748-6da7069d820a.png
+github: true
+content_rating:
+  adult: false
