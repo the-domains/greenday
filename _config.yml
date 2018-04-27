@@ -26,9 +26,6 @@ navigation:
   - name: Kako naručiti
     id: 931a18e1-d6ce-4e23-ad6c-258cd8a5419f
     type: content
-  - name: Slastice
-    id: 358eb049-544c-43fb-a830-a4fa89ee624b
-    type: content
   - name: Zanimljivosti
     id: 8bda1f0e-2225-497c-8232-7bd62a85bc6e
     type: content
