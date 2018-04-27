@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten.
   Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
-dateModified: '2018-04-27T11:30:04.739Z'
-datePublished: '2018-04-27T11:30:06.100Z'
+dateModified: '2018-04-27T11:53:18.219Z'
+datePublished: '2018-04-27T11:53:19.118Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
@@ -45,25 +45,14 @@ Ostajemo otvoreni za sve upite i prijedloge. Pokušat ćemo ispuniti vaše zahtj
 Također vas molimo ukoliko imate saznanja o nekim novim "gluten free" proizvodima, a koji se mogu nabaviti u BiH da nas obavijestite kako bi proširili našu ponudu.
 
 ----------------------------  
-Naša hrana NE SADRŽI:  
----------------------------  
-1\. Brašna koja prirodno sadrže gluten   
-(pšenično, raženo, ječmeno...)
+**Naša hrana NE SADRŽI:**
 
-2\. Biljna ulja dobivena ekstrakcijom sjemenja i zrnja   
-(suncokretovo, kukuruzno, sojino, repičino)
-
-3\. Hidrogenizirano biljno ulje (Margarin)
-
-4\. Rafinirane šećere
-
-5\. Aditive i konzervanse
-
-6\. Soju  
--------------------------  
--------------------------
-
-Prirodne namirnice bez glutena, Certificirane namirnice bez glutena i Certifiicirane BIO namirnice koje koristimo su do deset puta skuplje od uobičajnih te iz toga razloga su i cijene naših proizvoda skuplje od uobičajne hrane.
+1. Brašna koja prirodno sadrže gluten (pšenično, raženo, ječmeno...)
+2. Biljna ulja dobivena ekstrakcijom sjemenja i zrnja (suncokretovo, kukuruzno, sojino, repičino)
+3. Hidrogenizirano biljno ulje (Margarin)
+4. Rafinirane šećere
+5. Aditive i konzervanse
+6. SojuPrirodne namirnice bez glutena, Certificirane namirnice bez glutena i Certifiicirane BIO namirnice koje koristimo su do deset puta skuplje od uobičajnih te iz toga razloga su i cijene naših proizvoda skuplje od uobičajne hrane.
 
 Također koristimo i hranu iz domaćeg uzgoja koju možemo kupiti na području Mostara (domaće mlijeko, jaja...)
 
@@ -76,22 +65,16 @@ NAŠI PROIZVODI NISU ZA OSOBE KOJE BOLUJU OD CELIJAKIJE ILI KOJE SU IZUZETNO OSJ
 
 SASTOJCI KOJE KORISTIMO:
 
-Brašno: Rižino, Heljdino, Kokosovo, Bademovo  
-Masnoće: Maslac, Ekstra djevičansko kokosovo ulje, Maslinovo ulje  
-Sol: Morska sol, Himalajska sol  
-Prirodni zaslađivači: Stevija, Eritritol, Javorov sirup, Rižin sirup, Kokosov cvijet, Agavin sirup  
-Sjemenke: Lanene, Suncokretove, Bučine, Chia, Sezam  
-Orašasti plodovi: Badem, Lješnjaci, Indijski oraščić  
-Škrob: Tapioka, Kukuruzni, Krumpirov  
-Zgušnjivač: Agar-Agar, Psylium  
-Začini: Burbon vanilija, Cimet  
-Kvasac: Prirodni bez glutena  
-Ostali dodaci iz prirodnog i domaćeg uzgoja: Mlijeko, Jaja, Sir, Med, Voće i povrće.  
----------------------------------------------------  
-Za one koji su alergični na pojedine sastojke, postoji mogućnost zamjene namirnica prema vašim željama i uz dogovor.  
--------------------------------------------------  
-Besplatna dostava naših proizvoda na području Mostara.  
-Za narudžbe i dodatne informacije kliknite "Pošalji poruku" i komunicirajte s nama.  
--------------------------------------------------
+* Brašno: Rižino, Heljdino, Kokosovo, Bademovo
+* Masnoće: Maslac, Ekstra djevičansko kokosovo ulje, Maslinovo ulje
+* Sol: Morska sol, Himalajska sol
+* Prirodni zaslađivači: Stevija, Eritritol, Javorov sirup, Rižin sirup, Kokosov cvijet, Agavin sirup
+* Sjemenke: Lanene, Suncokretove, Bučine, Chia, Sezam
+* Orašasti plodovi: Badem, Lješnjaci, Indijski oraščić
+* Škrob: Tapioka, Kukuruzni, Krumpirov
+* Zgušnjivač: Agar-Agar, Psylium
+* Začini: Burbon vanilija, Cimet
+* Kvasac: Prirodni bez glutena
+* Ostali dodaci iz prirodnog i domaćeg uzgoja: Mlijeko, Jaja, Sir, Med, Voće i povrće.---------------------------------------------------Za one koji su alergični na pojedine sastojke, postoji mogućnost zamjene namirnica prema vašim željama i uz dogovor.-------------------------------------------------**Besplatna dostava naših proizvoda na području Mostara.**-------------------------------------------------
 
 Vaš Green Day/Mostar
