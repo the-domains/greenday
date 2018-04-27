@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Prhki i slasni keksići idealni da upotpune kavu ili čaj.
-dateModified: '2018-04-27T13:21:04.890Z'
-datePublished: '2018-04-27T13:21:05.374Z'
+dateModified: '2018-04-27T13:43:14.995Z'
+datePublished: '2018-04-27T13:43:15.853Z'
 title: GREEN DAY KEKSIĆI
 author: []
 publisher: {}
@@ -18,7 +18,7 @@ _type: Blurb
 
 Prhki i slasni keksići idealni da upotpune kavu ili čaj.
 
-Sastojci: Rižino integralno brašno, Rižino bijelo brašno, Kukuruzni škrob, BIO Jaja, Maslac, Stevia, Prašak za pecivo vinskog kamena. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.  
+**Sastojci:** Rižino integralno brašno, Rižino bijelo brašno, Kukuruzni škrob, BIO Jaja, Maslac, Stevia, Prašak za pecivo vinskog kamena. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.  
 PRAVIMO PO NARUDŽBI.
 
 ### CIJENA: 1 KM/komadu.
