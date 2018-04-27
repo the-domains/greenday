@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten.
   Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
-dateModified: '2018-04-27T11:54:09.131Z'
-datePublished: '2018-04-27T11:54:09.904Z'
+dateModified: '2018-04-27T11:55:53.825Z'
+datePublished: '2018-04-27T11:55:54.546Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
@@ -25,8 +25,6 @@ Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten. 
 
 Danima sam morala proučavati namirnice, načine kuhanja, deklaracije, razmjenjivati razna iskustva, testirati i probati.
 
----
-
 Bilo je vrlo teško raditi s brašnima koja prirodno nemaju glutena jer ona su jako teška za oblikovanje, a i približiti okuse uobičajnoj hrani je, takodjer, bio pravi izazov, jer organska i zdrava hrana je nešto na što ljudi nisu baš navikli.
 
 Nakon izvjesnog vremena odlučila sam svoje umijeće u kuhanju staviti na uslugu ljudima koji također imaju problema ili jednostavno žele jesti zdravu hranu, bez dodanih rafiniranih šećera, bez pšeničnog brašna, aditiva i konzervansa, kao i rafiniranih biljnih ulja.
@@ -36,15 +34,6 @@ Takvi ljudi možda nemaju vremena da spravljaju ovu vrstu hrane ili im se jednos
 Zato sam ja ponudila svoje usluge i proizvode.  
 Pored toga, po zanimanju sam kemičar i radim na kontroli i ispitivanju hrane te mi je i to jako pomoglo da uobličim svoju ponudu.
 
-------------------------------------------  
-OBAVEZNO PRIJE KONZUMACIJE PROČITAJTE DEKLARACIJU  
-Svi sastojci od kojih pravimo naše proizvode su također navedeni i u deklaraciji koju isporučujemo uz proizvod i molimo vas da prije konzumacije još jednom pročitate sadržaj deklaracije tj. sastav, težinu i trajnost proizvoda.  
------------------------------------------  
-Ostajemo otvoreni za sve upite i prijedloge. Pokušat ćemo ispuniti vaše zahtjeve. Naše stranice nisu za rasprave o hrani i stoga vas molimo da to ne činite ovdje jer za to postoji mnogo drugih stranica.
-
-Također vas molimo ukoliko imate saznanja o nekim novim "gluten free" proizvodima, a koji se mogu nabaviti u BiH da nas obavijestite kako bi proširili našu ponudu.
-
-----------------------------  
 **Naša hrana NE SADRŽI:**
 
 1. Brašna koja prirodno sadrže gluten (pšenično, raženo, ječmeno...)
@@ -52,11 +41,20 @@ Također vas molimo ukoliko imate saznanja o nekim novim "gluten free" proizvodi
 3. Hidrogenizirano biljno ulje (Margarin)
 4. Rafinirane šećere
 5. Aditive i konzervanse
-6. SojuPrirodne namirnice bez glutena, Certificirane namirnice bez glutena i Certifiicirane BIO namirnice koje koristimo su do deset puta skuplje od uobičajnih te iz toga razloga su i cijene naših proizvoda skuplje od uobičajne hrane.
+6. Soju
+
+OBAVEZNO PRIJE KONZUMACIJE PROČITAJTE DEKLARACIJU  
+Svi sastojci od kojih pravimo naše proizvode su također navedeni i u deklaraciji koju isporučujemo uz proizvod i molimo vas da prije konzumacije još jednom pročitate sadržaj deklaracije tj. sastav, težinu i trajnost proizvoda.  
+-----------------------------------------  
+Ostajemo otvoreni za sve upite i prijedloge. Pokušat ćemo ispuniti vaše zahtjeve. Naše stranice nisu za rasprave o hrani i stoga vas molimo da to ne činite ovdje jer za to postoji mnogo drugih stranica.
+
+Također vas molimo ukoliko imate saznanja o nekim novim "gluten free" proizvodima, a koji se mogu nabaviti u BiH da nas obavijestite kako bi proširili našu ponudu.
 
 Također koristimo i hranu iz domaćeg uzgoja koju možemo kupiti na području Mostara (domaće mlijeko, jaja...)
 
-Naša misija je pomoći približiti našim klijentima zdravu hranu kako bi regulirali tjelesnu težinu, ovisnost o šećeru i kako bi se zdravo hranili.
+Prirodne namirnice bez glutena, Certificirane namirnice bez glutena i Certifiicirane BIO namirnice koje koristimo su do deset puta skuplje od uobičajnih te iz toga razloga su i cijene naših proizvoda skuplje od uobičajne hrane.
+
+Naša misija je pomoći približiti našim klijentima zdravu hranu kako bi regulirali tjelesnu težinu, ovisnost o šećeru i kako bi se zdravo hranili. 
 
 ----------------------------------------------------------  
 NAPOMENA:  
