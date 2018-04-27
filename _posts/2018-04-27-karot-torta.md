@@ -5,9 +5,9 @@ description: >-
   ulje, BIO Kokosovo mlijeko, Stevia, Psyllium, BIO Cejlonski cimet, Soda
   bikarbon, Jabučni ocat, Svježi krem sir, Maslac, BIO Burbon vanilija, Korica
   od limuna. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih
-  šećera. PRAVIMO PO NARUDŽBI.  
-dateModified: '2018-04-27T12:49:10.851Z'
-datePublished: '2018-04-27T12:49:11.451Z'
+  šećera.PRAVIMO PO NARUDŽBI. 
+dateModified: '2018-04-27T13:21:04.890Z'
+datePublished: '2018-04-27T13:21:05.528Z'
 title: KAROT TORTA
 author: []
 publisher: {}
