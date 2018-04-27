@@ -4,8 +4,8 @@ description: >-
   Sastojci: BIO Kakao u prahu, BIO Kakao maslac, BIO Sirup kokosovg cvijeta (ili
   Stevia), Lješnjaci, Bademi ili Narančina korica. Ovi sastojci prirodno ne
   sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI. 
-dateModified: '2018-04-27T13:49:28.623Z'
-datePublished: '2018-04-27T13:49:29.387Z'
+dateModified: '2018-04-27T14:27:06.006Z'
+datePublished: '2018-04-27T14:27:06.260Z'
 title: ČOKOLADNE PRALINE (75% kakao)
 author: []
 publisher: {}
