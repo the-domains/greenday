@@ -7,8 +7,8 @@ description: >-
   Tapioka škrob, Bezglutenski prašak za pecivo, Višnje (moguća izrada i sa
   drugim vrstama voća), BIO Mlijeko. Ovi sastojci prirodno ne sadrže gluten. Bez
   dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-27T13:49:28.623Z'
-datePublished: '2018-04-27T13:49:29.459Z'
+dateModified: '2018-04-28T13:51:50.353Z'
+datePublished: '2018-04-28T13:51:51.577Z'
 title: ČOKOLADNA TORTA S VIŠNJAMA
 author: []
 publisher: {}
