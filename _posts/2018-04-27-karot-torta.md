@@ -6,8 +6,8 @@ description: >-
   bikarbon, Jabučni ocat, Svježi krem sir, Maslac, BIO Burbon vanilija, Korica
   od limuna. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih
   šećera.PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-27T13:49:28.623Z'
-datePublished: '2018-04-27T13:49:29.268Z'
+dateModified: '2018-04-28T13:51:50.353Z'
+datePublished: '2018-04-28T13:51:51.587Z'
 title: KAROT TORTA
 author: []
 publisher: {}
