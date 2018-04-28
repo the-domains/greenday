@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Već poznata slastica ali u novoj kombinaciji. Ovaj put naranča nadopunjuje
   slatki okus čokolade. Uživajte svim čulima u našim zdravim slasticama.
-dateModified: '2018-04-28T13:51:22.543Z'
-datePublished: '2018-04-28T13:51:23.258Z'
+dateModified: '2018-04-28T13:51:50.353Z'
+datePublished: '2018-04-28T13:51:51.586Z'
 title: ČOKOLADNA TORTA S NARANČOM
 author: []
 publisher: {}
