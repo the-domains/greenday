@@ -1,10 +1,8 @@
 ---
 inFeed: false
-description: >-
-  Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten.
-  Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
-dateModified: '2018-04-28T13:51:50.353Z'
-datePublished: '2018-04-28T13:51:51.587Z'
+description: 'https://www.facebook.com/greenday.kolaci.peciva/'
+dateModified: '2018-04-28T14:09:37.248Z'
+datePublished: '2018-04-28T14:09:38.275Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
@@ -17,6 +15,7 @@ url: o-nama-i-nasim-proizvodima/index.html
 _type: Blurb
 
 ---
+https://www.facebook.com/greenday.kolaci.peciva/
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c800a52-237e-4081-9d48-9b7ea5dc04a2.jpg)
 
 # O nama i našim proizvodima
@@ -44,11 +43,7 @@ Pored toga, po zanimanju sam kemičar i radim na kontroli i ispitivanju hrane te
 6. Soju
 
 OBAVEZNO PRIJE KONZUMACIJE PROČITAJTE DEKLARACIJU  
-Svi sastojci od kojih pravimo naše proizvode su također navedeni i u deklaraciji koju isporučujemo uz proizvod i molimo vas da prije konzumacije još jednom pročitate sadržaj deklaracije tj. sastav, težinu i trajnost proizvoda.  
------------------------------------------  
-Ostajemo otvoreni za sve upite i prijedloge. Pokušat ćemo ispuniti vaše zahtjeve. Naše stranice nisu za rasprave o hrani i stoga vas molimo da to ne činite ovdje jer za to postoji mnogo drugih stranica.
-
-Također vas molimo ukoliko imate saznanja o nekim novim "gluten free" proizvodima, a koji se mogu nabaviti u BiH da nas obavijestite kako bi proširili našu ponudu.
+Svi sastojci od kojih pravimo naše proizvode su također navedeni i u deklaraciji koju isporučujemo uz proizvod i molimo vas da prije konzumacije još jednom pročitate sadržaj deklaracije tj. sastav, težinu i trajnost proizvoda.
 
 Također koristimo i hranu iz domaćeg uzgoja koju možemo kupiti na području Mostara (domaće mlijeko, jaja...)
 
@@ -80,3 +75,8 @@ Za one koji su alergični na pojedine sastojke, postoji mogućnost zamjene namir
 **Besplatna dostava naših proizvoda na području Mostara.**
 
 Vaš Green Day/Mostar
+
+Facebook stranice:  
+[https://www.facebook.com/greenday.kolaci.peciva/][0]
+
+[0]: https://www.facebook.com/greenday.kolaci.peciva/
