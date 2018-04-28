@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-04-27T13:49:28.623Z'
-datePublished: '2018-04-27T13:49:29.221Z'
+dateModified: '2018-04-28T13:51:50.353Z'
+datePublished: '2018-04-28T13:51:51.577Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
