@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-04-30T11:40:09.240Z'
-datePublished: '2018-04-30T11:40:10.249Z'
+dateModified: '2018-04-30T11:43:18.033Z'
+datePublished: '2018-04-30T11:43:18.892Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
@@ -27,21 +27,6 @@ PRAVIMO PO NARUDŽBI.
 ### **TEŽINA: 1500 g**
 
 ### **CIJENA: 35 KM**
+[Narudžba na Messenger][0]
 
-<button data-role="cta" style="">Narudžba na Messenger</button>
-
-    <!-- Load Facebook SDK for JavaScript -->
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = 'https://connect.facebook.net/hr_HR/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-    
-    <!-- Your customer chat code -->
-    <div class="fb-customerchat"
-      attribution="setup_tool"
-      page_id="186131015460967">
-    </div>
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
