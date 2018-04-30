@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Omiljena slastica u zdravoj verziji. Uživajte u slasnom i osvježavajućem okusu
   kokosa.
-dateModified: '2018-04-30T12:56:48.911Z'
-datePublished: '2018-04-30T12:56:49.527Z'
+dateModified: '2018-04-30T12:58:27.430Z'
+datePublished: '2018-04-30T12:58:28.118Z'
 title: RAFAELO KOCKE
 author: []
 publisher: {}
