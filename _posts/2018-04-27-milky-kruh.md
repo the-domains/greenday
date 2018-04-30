@@ -2,10 +2,9 @@
 inFeed: true
 description: >-
   Sastojci: Rižino brašno, Krompirov škrob, Tapioka, Psilium, BIO Kvasac, Sol,
-  BIO Mlijeko, Maslac, BIO Jaja. Ovi sastojci prirodno ne sadrže gluten. Bez
-  dodatka rafiniranih šećera.PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-30T12:43:43.905Z'
-datePublished: '2018-04-30T12:43:44.343Z'
+  BIO Mlijeko, Maslac, BIO Jaja. 
+dateModified: '2018-04-30T12:57:00.025Z'
+datePublished: '2018-04-30T12:57:00.750Z'
 title: MILKY KRUH
 author: []
 publisher: {}
@@ -19,7 +18,9 @@ _type: Blurb
 # MILKY KRUH
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d55dcd4-825a-4fc8-9f7b-60f5a1c4ecab.jpg)
 
-**Sastojci:** Rižino brašno, Krompirov škrob, Tapioka, Psilium, BIO Kvasac, Sol, BIO Mlijeko, Maslac, BIO Jaja. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.PRAVIMO PO NARUDŽBI.
+**Sastojci:** Rižino brašno, Krompirov škrob, Tapioka, Psilium, BIO Kvasac, Sol, BIO Mlijeko, Maslac, BIO Jaja. 
+
+Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.PRAVIMO PO NARUDŽBI.
 
 ### TEŽINA: 900 g
 
