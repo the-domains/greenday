@@ -3,10 +3,9 @@ inFeed: true
 description: >-
   Sastojci: BIO Kukuruzno brašno, BIO Kukuruzna palenta, Kukuruzni škrob, Rižino
   integralno brašno, BIO Ekstra djevičansko kokosovo ulje, Psyllium, Prašak za
-  pecivo vinskog kamena, Morska sol. Ovi sastojci prirodno ne sadrže gluten. Bez
-  dodatka rafiniranih šećera.PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-30T12:47:58.774Z'
-datePublished: '2018-04-30T12:47:59.603Z'
+  pecivo vinskog kamena, Morska sol. 
+dateModified: '2018-04-30T12:57:11.661Z'
+datePublished: '2018-04-30T12:57:12.366Z'
 title: KUKURUZNI KRUH
 author: []
 publisher: {}
@@ -20,7 +19,9 @@ _type: Blurb
 # KUKURUZNI KRUH
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73cd7a06-5815-4333-b383-dce830d0d0d1.jpg)
 
-**Sastojci:** BIO Kukuruzno brašno, BIO Kukuruzna palenta, Kukuruzni škrob, Rižino integralno brašno, BIO Ekstra djevičansko kokosovo ulje, Psyllium, Prašak za pecivo vinskog kamena, Morska sol. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.  
+**Sastojci:** BIO Kukuruzno brašno, BIO Kukuruzna palenta, Kukuruzni škrob, Rižino integralno brašno, BIO Ekstra djevičansko kokosovo ulje, Psyllium, Prašak za pecivo vinskog kamena, Morska sol. 
+
+Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.  
 PRAVIMO PO NARUDŽBI.
 
 ## TEŽINA: 700 g
