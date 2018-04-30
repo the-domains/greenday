@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'https://www.facebook.com/greenday.kolaci.peciva/'
-dateModified: '2018-04-28T14:09:37.248Z'
-datePublished: '2018-04-28T14:09:38.275Z'
+dateModified: '2018-04-30T10:02:44.438Z'
+datePublished: '2018-04-30T10:02:45.554Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
