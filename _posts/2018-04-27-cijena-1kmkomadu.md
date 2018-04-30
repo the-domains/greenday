@@ -4,8 +4,8 @@ description: >-
   Sastojci: Rižino integralno brašno, Kukuruzni škrob, Maslac, Jaje, Stevia, BIO
   Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za
   Pecivo. 
-dateModified: '2018-04-30T12:56:26.417Z'
-datePublished: '2018-04-30T12:56:27.382Z'
+dateModified: '2018-04-30T12:58:27.430Z'
+datePublished: '2018-04-30T12:58:28.117Z'
 title: MEDENJACI
 author: []
 publisher: {}
