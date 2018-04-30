@@ -6,8 +6,8 @@ description: >-
   Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo
   rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo,
   Jagode (, BIO Mlijeko.
-dateModified: '2018-04-28T13:51:50.353Z'
-datePublished: '2018-04-28T13:51:51.592Z'
+dateModified: '2018-04-30T12:40:23.540Z'
+datePublished: '2018-04-30T12:40:24.286Z'
 title: ČOKOLADNA TORTA S JAGODAMA
 author: []
 publisher: {}
@@ -29,6 +29,6 @@ Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVI
 ## TEŽINA: 1500 g
 
 ## CIJENA: 35 KM
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/242481293159272
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
