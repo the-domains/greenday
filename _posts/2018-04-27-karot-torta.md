@@ -6,8 +6,8 @@ description: >-
   bikarbon, Jabučni ocat, Svježi krem sir, Maslac, BIO Burbon vanilija, Korica
   od limuna. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih
   šećera.PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-28T13:51:50.353Z'
-datePublished: '2018-04-28T13:51:51.587Z'
+dateModified: '2018-04-30T11:53:42.496Z'
+datePublished: '2018-04-30T11:53:43.433Z'
 title: KAROT TORTA
 author: []
 publisher: {}
@@ -27,6 +27,6 @@ PRAVIMO PO NARUDŽBI.
 ### TEŽINA: 1000 g
 
 ### CIJENA: 30 KM
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/233615254045876
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
