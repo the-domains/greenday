@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Raw slastice su napravljene od sirovih prirodnih i kvalitetnih sastojaka bez
   termičke obrade. One su zdrave, zasitne, energetske i bogate okusom.
-dateModified: '2018-04-28T13:51:50.353Z'
-datePublished: '2018-04-28T13:51:51.591Z'
+dateModified: '2018-04-30T11:54:18.583Z'
+datePublished: '2018-04-30T11:54:19.231Z'
 title: RAW JAFFA TORTA
 author: []
 publisher: {}
@@ -25,6 +25,6 @@ Raw slastice su napravljene od sirovih prirodnih i kvalitetnih sastojaka bez ter
 ### TEŽINA: 1100 g
 
 ### CIJENA: 35 KM
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/224999531574115
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
