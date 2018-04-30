@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Savršen sklad gorkog, slatkog i kiselog okusa koji se nadopunjuju i stvaraju
   čokoladnu čaroliju.
-dateModified: '2018-04-30T10:48:01.187Z'
-datePublished: '2018-04-30T10:48:01.900Z'
+dateModified: '2018-04-30T11:52:27.913Z'
+datePublished: '2018-04-30T11:52:28.873Z'
 title: ČOKOLADNA TORTA S VIŠNJAMA
 author: []
 publisher: {}
@@ -25,6 +25,6 @@ Savršen sklad gorkog, slatkog i kiselog okusa koji se nadopunjuju i stvaraju č
 ### TEŽINA: 1500 g
 
 ### CIJENA: 35 KM
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/207962903277778
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
