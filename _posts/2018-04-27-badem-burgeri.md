@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Keksići bez brašna, bogatog okusa badema. Idealni kao užina, savršeni uz kavu
   ili čaj.
-dateModified: '2018-04-30T09:54:55.178Z'
-datePublished: '2018-04-30T09:54:55.559Z'
+dateModified: '2018-04-30T12:41:40.083Z'
+datePublished: '2018-04-30T12:41:40.735Z'
 title: BADEM BURGERI
 author: []
 publisher: {}
@@ -23,6 +23,6 @@ Keksići bez brašna, bogatog okusa badema. Idealni kao užina, savršeni uz kav
 **Sastojci:** Badem, Bademovo brašno, Maslac, Ekstra djevičansko kokosovo ulje, Kokosovo mlijeko, Jaja, Stevia, BIO Burbon vanilija u prahu, Komadići čokolade sa 75 % kakaa, Soda bikarbon, Morska sol. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
 ### CIJENA: 1KM/ komadu
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/219951265412275
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
