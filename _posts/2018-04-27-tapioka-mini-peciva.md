@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Ova “pufnasta” peciva odlična su za doručak, užinu ili kao fingerfood.'
-dateModified: '2018-04-27T13:49:28.623Z'
-datePublished: '2018-04-27T13:49:29.496Z'
+dateModified: '2018-04-30T12:41:54.466Z'
+datePublished: '2018-04-30T12:41:55.146Z'
 title: TAPIOKA MINI PECIVA
 author: []
 publisher: {}
@@ -21,6 +21,6 @@ Ova "pufnasta" peciva odlična su za doručak, užinu ili kao fingerfood.
 **Sastojci:** Tapioka brašno, Mlijeko, Ekstra djevičansko maslinovo ulje, Ribani tvrdi sir, Jaja, Morska sol. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
 ## CIJENA: 10 KM ( 15 komada)
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/234996993907702
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
