@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-04-30T11:36:08.528Z'
-datePublished: '2018-04-30T11:36:09.409Z'
+dateModified: '2018-04-30T11:40:09.240Z'
+datePublished: '2018-04-30T11:40:10.249Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
@@ -30,4 +30,18 @@ PRAVIMO PO NARUDŽBI.
 
 <button data-role="cta" style="">Narudžba na Messenger</button>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUdtq20AQfddXTBSIJLBWVpo6TS0ZapLSS8hD05cSilnvjux1bK3YHYmG0n_vrKOQvO3MOcyeS3WS53BrpYbPUuHa2ke4v_4OjXXwTQ7yXjnTEeT5Iqq0GcDoOm7WubOW4kVV8IoBfyQt0qZvFRnbpnoCfsLcDP5GAIN0sOO52XmoQYsN0s0eD9iSXz79lJs7ecDUZw_T33NmmwbSt5zl01ed8qkMHFLv2sAZDymHknDk8YU5A8Joxox-pgnvFI_JlqjzH4tC2bZFRaIZvYoWqdi61ZcfhdePxZ9mfdgL1XuyB3RqK0ns_OlxW5dnAzrP7urhXJTnZ7Ine2s3n7ruZghW6jIJf7JJ0UnHmzurUZjWo6Mlcp6YjiFk8-hfqq3qg-wJJM_xJfx6kZXvPMtJsmxeFWO4UVSFpn7Z3sGLQAgKQfE_rwWpvfT-2NFbGzErk0TOrPtQUB17zrJbkbX7AHVyg6tQbflhVr4rp-X7i9n0anYZ89Fjx_8BVSCzxw" height="244" style=""></iframe>
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/hr_HR/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+    <!-- Your customer chat code -->
+    <div class="fb-customerchat"
+      attribution="setup_tool"
+      page_id="186131015460967">
+    </div>
