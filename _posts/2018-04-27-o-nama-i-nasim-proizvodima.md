@@ -1,8 +1,10 @@
 ---
 inFeed: false
-description: 'https://www.facebook.com/greenday.kolaci.peciva/'
-dateModified: '2018-04-30T10:13:43.586Z'
-datePublished: '2018-04-30T10:13:44.181Z'
+description: >-
+  Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten.
+  Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
+dateModified: '2018-04-30T10:19:30.851Z'
+datePublished: '2018-04-30T10:19:31.770Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
@@ -15,7 +17,6 @@ url: o-nama-i-nasim-proizvodima/index.html
 _type: Blurb
 
 ---
-https://www.facebook.com/greenday.kolaci.peciva/
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c800a52-237e-4081-9d48-9b7ea5dc04a2.jpg)
 
 # O nama i našim proizvodima
