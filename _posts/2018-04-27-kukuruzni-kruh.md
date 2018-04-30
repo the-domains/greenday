@@ -5,8 +5,8 @@ description: >-
   integralno brašno, BIO Ekstra djevičansko kokosovo ulje, Psyllium, Prašak za
   pecivo vinskog kamena, Morska sol. Ovi sastojci prirodno ne sadrže gluten. Bez
   dodatka rafiniranih šećera.PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-28T13:51:50.353Z'
-datePublished: '2018-04-28T13:51:51.592Z'
+dateModified: '2018-04-30T09:54:55.178Z'
+datePublished: '2018-04-30T09:54:55.653Z'
 title: KUKURUZNI KRUH
 author: []
 publisher: {}
