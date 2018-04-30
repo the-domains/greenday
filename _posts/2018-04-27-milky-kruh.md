@@ -4,8 +4,8 @@ description: >-
   Sastojci: Rižino brašno, Krompirov škrob, Tapioka, Psilium, BIO Kvasac, Sol,
   BIO Mlijeko, Maslac, BIO Jaja. Ovi sastojci prirodno ne sadrže gluten. Bez
   dodatka rafiniranih šećera.PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-28T13:51:50.353Z'
-datePublished: '2018-04-28T13:51:51.576Z'
+dateModified: '2018-04-30T09:54:55.178Z'
+datePublished: '2018-04-30T09:54:55.649Z'
 title: MILKY KRUH
 author: []
 publisher: {}
