@@ -5,8 +5,8 @@ description: >-
   sjemenke, BIO Lan, BIO Sezam, Kukuruzni škrob, Morska Sol, Prirodni Kvasac,
   Voda. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih
   šećera.PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-30T09:54:55.178Z'
-datePublished: '2018-04-30T09:54:55.653Z'
+dateModified: '2018-04-30T12:42:39.554Z'
+datePublished: '2018-04-30T12:42:41.059Z'
 title: RUSTIK KRUH
 author: []
 publisher: {}
@@ -25,6 +25,6 @@ _type: Blurb
 ### TEŽINA: 720 g
 
 ### CIJENA: 9,5 KM
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/191610514913017
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
