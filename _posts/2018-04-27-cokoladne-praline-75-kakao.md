@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Sastojci: BIO Kakao u prahu, BIO Kakao maslac, BIO Sirup kokosovg cvijeta (ili
   Stevia), Lješnjaci, Bademi ili Narančina korica. 
-dateModified: '2018-04-30T12:56:04.269Z'
-datePublished: '2018-04-30T12:56:04.878Z'
+dateModified: '2018-04-30T12:58:27.430Z'
+datePublished: '2018-04-30T12:58:28.129Z'
 title: ČOKOLADNE PRALINE (75% kakao)
 author: []
 publisher: {}
