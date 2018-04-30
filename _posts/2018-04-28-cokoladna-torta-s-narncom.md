@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Već poznata slastica ali u novoj kombinaciji. Ovaj put naranča nadopunjuje
   slatki okus čokolade. Uživajte svim čulima u našim zdravim slasticama.
-dateModified: '2018-04-28T13:51:50.353Z'
-datePublished: '2018-04-28T13:51:51.586Z'
+dateModified: '2018-04-30T11:53:58.254Z'
+datePublished: '2018-04-30T11:53:58.955Z'
 title: ČOKOLADNA TORTA S NARANČOM
 author: []
 publisher: {}
@@ -25,6 +25,6 @@ Već poznata slastica ali u novoj kombinaciji. Ovaj put naranča nadopunjuje sla
 ### TEŽINA: 1500 g
 
 ### CIJENA: 35 KM
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/242945049779563
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
