@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-04-28T13:51:50.353Z'
-datePublished: '2018-04-28T13:51:51.577Z'
+dateModified: '2018-04-30T11:22:08.656Z'
+datePublished: '2018-04-30T11:22:09.584Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
@@ -29,4 +29,4 @@ PRAVIMO PO NARUDŽBI.
 ### **CIJENA: 35 KM**
 [Vidi više][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/238110223596379
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
