@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'https://www.facebook.com/greenday.kolaci.peciva/'
-dateModified: '2018-04-30T10:02:44.438Z'
-datePublished: '2018-04-30T10:02:45.554Z'
+dateModified: '2018-04-30T10:13:40.706Z'
+datePublished: '2018-04-30T10:13:41.817Z'
 title: O nama i našim proizvodima
 author: []
 publisher: {}
@@ -23,6 +23,8 @@ https://www.facebook.com/greenday.kolaci.peciva/
 Dragi moji, prije dužeg vremena dijagosticirana mi je intolerancija na gluten. Stoga sam bila primorana, potpuno promjeniti svoju ishranu.
 
 Danima sam morala proučavati namirnice, načine kuhanja, deklaracije, razmjenjivati razna iskustva, testirati i probati.
+
+---
 
 Bilo je vrlo teško raditi s brašnima koja prirodno nemaju glutena jer ona su jako teška za oblikovanje, a i približiti okuse uobičajnoj hrani je, takodjer, bio pravi izazov, jer organska i zdrava hrana je nešto na što ljudi nisu baš navikli.
 
