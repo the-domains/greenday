@@ -1,5 +1,6 @@
-layout_spectrum: 0.9800094052860605
 typography_spectrum: 0.31041050837827056
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5812019459771379
   lightness: 0.6900768768933075
@@ -11,6 +12,12 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+github: true
+layout_spectrum: 0.9800094052860605
+analytics:
+  google: UA-118310837-1
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d64bd6c-9f9a-4028-81b3-fa14958209ec.png
 name: Green Day / Zdrava Hrana
 colors:
   brandColors:
@@ -19,6 +26,12 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: O nama
+    id: 0b4c415d-5acd-41aa-9dbc-b4fb3774791a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bba981-5a12-4850-b748-6da7069d820a.png
 title: Green Day / Zdrava hrana
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -29,19 +42,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/40e77bc1-9a74-461e-b0bc-17a25a1ef887.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -55,12 +68,3 @@ purpose:
   - type: internal
     label: O nama
     item: 0b4c415d-5acd-41aa-9dbc-b4fb3774791a
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d64bd6c-9f9a-4028-81b3-fa14958209ec.png
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bba981-5a12-4850-b748-6da7069d820a.png
-github: true
-content_rating:
-  adult: false
-analytics:
-  google: UA-118310837-1
