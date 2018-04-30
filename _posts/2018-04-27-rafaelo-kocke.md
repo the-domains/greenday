@@ -6,8 +6,8 @@ description: >-
   vrhnje, Ekstra djevičansko kokosovo ulje, Med, BIO Kokosovo brašno. Ovi
   sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO
   NARUDŽBI.
-dateModified: '2018-04-30T09:54:55.178Z'
-datePublished: '2018-04-30T09:54:55.559Z'
+dateModified: '2018-04-30T12:43:10.651Z'
+datePublished: '2018-04-30T12:43:11.324Z'
 title: RAFAELO KOCKE
 author: []
 publisher: {}
@@ -25,6 +25,6 @@ Omiljena slastica u zdravoj verziji. Uživajte u slasnom i osvježavajućem okus
 **Sastojci:** BIO Proso, BIO Kokosove ljuskice, BIO Punomasno kokosovo vrhnje, Ekstra djevičansko kokosovo ulje, Med, BIO Kokosovo brašno. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
 ## CIJENA: 1,5 KM/komadu
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/242488756491859
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
