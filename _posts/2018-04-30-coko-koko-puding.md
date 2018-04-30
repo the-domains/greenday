@@ -4,8 +4,8 @@ description: >-
   Ako volite Bounty onda je ovo slastica za vas. Sočni i fini kremasti puding sa
   prosom, kokosom i čokoladnim preljevom od datulja. Uživajte svim čulima u
   našim zdravim slasticama.
-dateModified: '2018-04-30T09:54:55.178Z'
-datePublished: '2018-04-30T09:54:55.648Z'
+dateModified: '2018-04-30T12:40:42.132Z'
+datePublished: '2018-04-30T12:40:43.306Z'
 title: ČOKO-KOKO PUDING
 author: []
 publisher: {}
@@ -23,6 +23,6 @@ Ako volite Bounty onda je ovo slastica za vas. Sočni i fini kremasti puding sa 
 
 **Sastojci:** Proso, Punomasno kokosovo mlijeko, Kakao maslac, Kokosove ljuskice, Med, Datulje, Sirovi kakao u prahu, Ekstra djevičansko kokosovo ulje. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.  
 CIJENA: 4 KM/ komad (minimalna narudžba 3 komada)
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/243429029731165
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
