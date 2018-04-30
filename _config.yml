@@ -65,6 +65,3 @@ purpose:
   - type: contact
     url: 'tel:+38763424246'
     label: Call +38763424246
-  - type: internal
-    label: O nama
-    item: 0b4c415d-5acd-41aa-9dbc-b4fb3774791a
