@@ -3,10 +3,9 @@ inFeed: true
 description: >-
   Sastojci: Rižino integralno brašno, BIO Suncokretove sjemenke, BIO Bučine
   sjemenke, BIO Lan, BIO Sezam, Kukuruzni škrob, Morska Sol, Prirodni Kvasac,
-  Voda. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih
-  šećera.PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-30T12:43:43.905Z'
-datePublished: '2018-04-30T12:43:44.346Z'
+  Voda. 
+dateModified: '2018-04-30T12:57:23.415Z'
+datePublished: '2018-04-30T12:57:24.045Z'
 title: RUSTIK KRUH
 author: []
 publisher: {}
@@ -20,7 +19,9 @@ _type: Blurb
 # RUSTIK KRUH
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1cee293-d1fc-4fcc-a878-45bf16c11401.jpg)
 
-**Sastojci:** Rižino integralno brašno, BIO Suncokretove sjemenke, BIO Bučine sjemenke, BIO Lan, BIO Sezam, Kukuruzni škrob, Morska Sol, Prirodni Kvasac, Voda. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.PRAVIMO PO NARUDŽBI.
+**Sastojci:** Rižino integralno brašno, BIO Suncokretove sjemenke, BIO Bučine sjemenke, BIO Lan, BIO Sezam, Kukuruzni škrob, Morska Sol, Prirodni Kvasac, Voda. 
+
+Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.PRAVIMO PO NARUDŽBI.
 
 ### TEŽINA: 720 g
 
