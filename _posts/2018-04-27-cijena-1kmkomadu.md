@@ -5,8 +5,8 @@ description: >-
   Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za
   Pecivo. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih
   šećera. PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-30T09:54:55.178Z'
-datePublished: '2018-04-30T09:54:55.625Z'
+dateModified: '2018-04-30T12:41:12.499Z'
+datePublished: '2018-04-30T12:41:13.295Z'
 title: MEDENJACI
 author: []
 publisher: {}
@@ -23,6 +23,6 @@ _type: Blurb
 **Sastojci:** Rižino integralno brašno, Kukuruzni škrob, Maslac, Jaje, Stevia, BIO Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za Pecivo. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
 ### CIJENA: 1KM/komadu
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/233616857379049
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
