@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Već poznata slastica ali u novoj kombinaciji. Ovaj put naranča nadopunjuje
   slatki okus čokolade. Uživajte svim čulima u našim zdravim slasticama.
-dateModified: '2018-04-30T11:53:58.254Z'
-datePublished: '2018-04-30T11:53:58.955Z'
+dateModified: '2018-04-30T12:55:13.068Z'
+datePublished: '2018-04-30T12:55:13.649Z'
 title: ČOKOLADNA TORTA S NARANČOM
 author: []
 publisher: {}
@@ -20,7 +20,9 @@ _type: Blurb
 
 Već poznata slastica ali u novoj kombinaciji. Ovaj put naranča nadopunjuje slatki okus čokolade. Uživajte svim čulima u našim zdravim slasticama.
 
-**Sastojci:** BIO Jaja, Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Naranče, BIO Mlijeko. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
+**Sastojci:** BIO Jaja, Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Naranče, BIO Mlijeko. 
+
+Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
 ### TEŽINA: 1500 g
 
