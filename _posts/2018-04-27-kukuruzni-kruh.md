@@ -5,8 +5,8 @@ description: >-
   integralno brašno, BIO Ekstra djevičansko kokosovo ulje, Psyllium, Prašak za
   pecivo vinskog kamena, Morska sol. Ovi sastojci prirodno ne sadrže gluten. Bez
   dodatka rafiniranih šećera.PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-30T12:43:43.905Z'
-datePublished: '2018-04-30T12:43:44.340Z'
+dateModified: '2018-04-30T12:47:58.774Z'
+datePublished: '2018-04-30T12:47:59.603Z'
 title: KUKURUZNI KRUH
 author: []
 publisher: {}
@@ -26,6 +26,6 @@ PRAVIMO PO NARUDŽBI.
 ## TEŽINA: 700 g
 
 ## CIJENA: 9,5 KM
-[Vidi više][0]
+[Messenger][0]
 
-[0]: https://www.facebook.com/greenday.kolaci.peciva/posts/237241843683217
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
