@@ -5,8 +5,8 @@ description: >-
   sjemenke, BIO Lan, BIO Sezam, Kukuruzni škrob, Morska Sol, Prirodni Kvasac,
   Voda. Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih
   šećera.PRAVIMO PO NARUDŽBI.
-dateModified: '2018-04-28T14:05:03.044Z'
-datePublished: '2018-04-28T14:05:03.907Z'
+dateModified: '2018-04-30T09:54:55.178Z'
+datePublished: '2018-04-30T09:54:55.653Z'
 title: RUSTIK KRUH
 author: []
 publisher: {}
