@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Stiglo nam je proljeće a sa njim slasne i sočne domaće jagode. Čokolada i
   jagode, savšena kombinacija kojoj je teško odoljeti.
-dateModified: '2018-04-30T13:03:52.496Z'
-datePublished: '2018-04-30T13:03:53.488Z'
+dateModified: '2018-05-10T12:59:54.334Z'
+datePublished: '2018-05-10T12:59:54.929Z'
 title: ČOKOLADNA TORTA S JAGODAMA
 author: []
 publisher: {}
@@ -23,6 +23,8 @@ Stiglo nam je proljeće a sa njim slasne i sočne domaće jagode. Čokolada i ja
 **Sastojci:** BIO Jaja, Maslac, Stevia, BIO Kakao, Kakao maslac, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Jagode (, BIO Mlijeko.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
+
+_(Besplatna dostava za Mostar)_
 
 ## TEŽINA: 1500 g
 
