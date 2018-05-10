@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Imate priliku probati pravu pravcatu čokoladu izrađenu od samo 2 osnovna
   sastojka.
-dateModified: '2018-05-10T12:51:51.244Z'
-datePublished: '2018-05-10T12:51:52.603Z'
+dateModified: '2018-05-10T13:00:22.294Z'
+datePublished: '2018-05-10T13:00:23.305Z'
 title: ČOKOLADNE PRALINE (75% kakao)
 author: []
 publisher: {}
@@ -23,6 +23,8 @@ Imate priliku probati pravu pravcatu čokoladu izrađenu od samo 2 osnovna sasto
 **Sastojci:** BIO Kakao u prahu, BIO Kakao maslac, BIO Sirup kokosovg cvijeta (ili Stevia), Lješnjaci, Bademi ili Narančina korica.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
+
+_(Besplatna dostava za Mostar)_
 
 ### TEŽINA: 80 - 100 g
 
