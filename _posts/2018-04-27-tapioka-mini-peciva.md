@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Ova “pufnasta” peciva odlična su za doručak, užinu ili kao fingerfood.'
-dateModified: '2018-04-30T12:58:09.282Z'
-datePublished: '2018-04-30T12:58:10.064Z'
+dateModified: '2018-05-10T13:02:17.767Z'
+datePublished: '2018-05-10T13:02:18.301Z'
 title: TAPIOKA MINI PECIVA
 author: []
 publisher: {}
@@ -18,9 +18,11 @@ _type: Blurb
 
 Ova "pufnasta" peciva odlična su za doručak, užinu ili kao fingerfood.
 
-**Sastojci:** Tapioka brašno, Mlijeko, Ekstra djevičansko maslinovo ulje, Ribani tvrdi sir, Jaja, Morska sol. 
+**Sastojci:** Tapioka brašno, Mlijeko, Ekstra djevičansko maslinovo ulje, Ribani tvrdi sir, Jaja, Morska sol.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
+
+_(Besplatna dostava za Mostar)_
 
 ## CIJENA: 10 KM ( 15 komada)
 [Messenger][0]
