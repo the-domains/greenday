@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Omiljena slastica u zdravoj verziji. Uživajte u slasnom i osvježavajućem okusu
   kokosa.
-dateModified: '2018-04-30T12:58:27.430Z'
-datePublished: '2018-04-30T12:58:28.118Z'
+dateModified: '2018-05-10T13:01:14.781Z'
+datePublished: '2018-05-10T13:01:15.612Z'
 title: RAFAELO KOCKE
 author: []
 publisher: {}
@@ -20,9 +20,11 @@ _type: Blurb
 
 Omiljena slastica u zdravoj verziji. Uživajte u slasnom i osvježavajućem okusu kokosa.
 
-**Sastojci:** BIO Proso, BIO Kokosove ljuskice, BIO Punomasno kokosovo vrhnje, Ekstra djevičansko kokosovo ulje, Med, BIO Kokosovo brašno. 
+**Sastojci:** BIO Proso, BIO Kokosove ljuskice, BIO Punomasno kokosovo vrhnje, Ekstra djevičansko kokosovo ulje, Med, BIO Kokosovo brašno.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
+
+_(Besplatna dostava za Mostar)_
 
 ## CIJENA: 1,5 KM/komadu
 [Messenger][0]
