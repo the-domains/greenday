@@ -4,8 +4,8 @@ description: >-
   Ako volite Bounty onda je ovo slastica za vas. Sočni i fini kremasti puding sa
   prosom, kokosom i čokoladnim preljevom od datulja. Uživajte svim čulima u
   našim zdravim slasticama.
-dateModified: '2018-04-30T12:58:27.430Z'
-datePublished: '2018-04-30T12:58:28.130Z'
+dateModified: '2018-05-10T13:00:07.898Z'
+datePublished: '2018-05-10T13:00:08.569Z'
 title: ČOKO-KOKO PUDING
 author: []
 publisher: {}
@@ -21,9 +21,11 @@ _type: Blurb
 
 Ako volite Bounty onda je ovo slastica za vas. Sočni i fini kremasti puding sa prosom, kokosom i čokoladnim preljevom od datulja. Uživajte svim čulima u našim zdravim slasticama.
 
-**Sastojci:** Proso, Punomasno kokosovo mlijeko, Kakao maslac, Kokosove ljuskice, Med, Datulje, Sirovi kakao u prahu, Ekstra djevičansko kokosovo ulje. 
+**Sastojci:** Proso, Punomasno kokosovo mlijeko, Kakao maslac, Kokosove ljuskice, Med, Datulje, Sirovi kakao u prahu, Ekstra djevičansko kokosovo ulje.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
+
+_(Besplatna dostava za Mostar)_
 
 ### CIJENA: 4 KM/ komad (minimalna narudžba 3 komada)
 [Messenger][0]
