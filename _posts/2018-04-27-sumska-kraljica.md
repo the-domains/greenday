@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-04-30T11:52:44.777Z'
-datePublished: '2018-04-30T11:52:45.524Z'
+dateModified: '2018-05-10T12:58:26.799Z'
+datePublished: '2018-05-10T12:58:27.986Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
@@ -23,6 +23,8 @@ Lagana i osvježavajuća, idealna slastica za toplije dane.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.  
 PRAVIMO PO NARUDŽBI.
+
+_(Besplatna dostava za Mostar)_
 
 ### **TEŽINA: 1500 g**
 
