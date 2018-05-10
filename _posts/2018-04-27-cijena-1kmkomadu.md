@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Sastojci: Rižino integralno brašno, Kukuruzni škrob, Maslac, Jaje, Stevia, BIO
   Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za
-  Pecivo. 
-dateModified: '2018-04-30T12:58:27.430Z'
-datePublished: '2018-04-30T12:58:28.117Z'
+  Pecivo.
+dateModified: '2018-05-10T13:00:48.327Z'
+datePublished: '2018-05-10T13:00:48.908Z'
 title: MEDENJACI
 author: []
 publisher: {}
@@ -19,9 +19,11 @@ _type: Blurb
 # MEDENJACI
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b5467e7-01f5-4824-b9c2-0e955d1b4540.jpg)
 
-**Sastojci:** Rižino integralno brašno, Kukuruzni škrob, Maslac, Jaje, Stevia, BIO Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za Pecivo. 
+**Sastojci:** Rižino integralno brašno, Kukuruzni škrob, Maslac, Jaje, Stevia, BIO Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za Pecivo.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
+
+_(Besplatna dostava za Mostar)_
 
 ### CIJENA: 1KM/komadu
 [Messenger][0]
