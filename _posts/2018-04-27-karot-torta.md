@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Vrijeme je da probate mrkvu u kolaču. Ovo je prava torta za odrasle. :)'
-dateModified: '2018-07-13T12:26:51.659Z'
-datePublished: '2018-07-13T12:26:52.282Z'
+dateModified: '2018-07-13T12:47:12.798Z'
+datePublished: '2018-07-13T12:47:13.313Z'
 title: KAROT TORTA
 author: []
 publisher: {}
@@ -25,9 +25,9 @@ PRAVIMO PO NARUDŽBI.
 
 _(Besplatna dostava za Mostar)_
 
-### **Velika torta **/****Promjer: 24 cm / Težina: 1500 g cca / Cijena: 35 KM
+### **Velika torta **/****Promjer: 24 cm / Težina: cca.1500 g / Cijena: 35 KM
 
-### **Mini torta **/****Promjer: 18 cm / Težina: 750 g cca / Cijena: 20 KM
+### **Mini torta **/****Promjer: 18 cm / Težina: cca. 750 g / Cijena: 20 KM
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
