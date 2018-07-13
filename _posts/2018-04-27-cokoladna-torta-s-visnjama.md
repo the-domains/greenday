@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Savršen sklad gorkog, slatkog i kiselog okusa koji se nadopunjuju i stvaraju
   čokoladnu čaroliju.
-dateModified: '2018-07-13T12:22:54.841Z'
-datePublished: '2018-07-13T12:22:55.602Z'
+dateModified: '2018-07-13T12:47:02.196Z'
+datePublished: '2018-07-13T12:47:02.794Z'
 title: ČOKOLADNA TORTA S VIŠNJAMA
 author: []
 publisher: {}
@@ -26,9 +26,9 @@ Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVI
 
 _(Besplatna dostava za Mostar)_
 
-### **Velika torta **/****Promjer: 24 cm / Težina: 1500 g cca / Cijena: 35 KM
+### **Velika torta **/****Promjer: 24 cm / Težina: cca.1500 g / Cijena: 35 KM
 
-### **Mini torta **/****Promjer: 18 cm / Težina: 750 g cca / Cijena: 20 KM
+### **Mini torta **/****Promjer: 18 cm / Težina: cca. 750 g / Cijena: 20 KM
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
