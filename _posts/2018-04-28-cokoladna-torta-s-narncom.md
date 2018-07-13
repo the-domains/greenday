@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Već poznata slastica ali u novoj kombinaciji. Ovaj put naranča nadopunjuje
   slatki okus čokolade. Uživajte svim čulima u našim zdravim slasticama.
-dateModified: '2018-07-13T12:23:46.482Z'
-datePublished: '2018-07-13T12:23:47.086Z'
+dateModified: '2018-07-13T12:47:25.737Z'
+datePublished: '2018-07-13T12:47:26.321Z'
 title: ČOKOLADNA TORTA S NARANČOM
 author: []
 publisher: {}
@@ -26,9 +26,9 @@ Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVI
 
 _(Besplatna dostava za Mostar)_
 
-### **Velika torta **/****Promjer: 24 cm / Težina: 1500 g cca / Cijena: 35 KM
+### **Velika torta **/****Promjer: 24 cm / Težina: cca.1500 g / Cijena: 35 KM
 
-### **Mini torta **/****Promjer: 18 cm / Težina: 750 g cca / Cijena: 20 KM
+### **Mini torta **/****Promjer: 18 cm / Težina: cca. 750 g / Cijena: 20 KM
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
