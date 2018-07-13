@@ -5,8 +5,8 @@ description: >-
   ulje, BIO Kokosovo mlijeko, Stevia, Psyllium, BIO Cejlonski cimet, Soda
   bikarbon, Jabučni ocat, Svježi krem sir, Maslac, BIO Burbon vanilija, Korica
   od limuna.
-dateModified: '2018-05-10T12:59:18.218Z'
-datePublished: '2018-05-10T12:59:18.942Z'
+dateModified: '2018-07-13T12:23:21.865Z'
+datePublished: '2018-07-13T12:23:22.501Z'
 title: KAROT TORTA
 author: []
 publisher: {}
@@ -27,9 +27,9 @@ PRAVIMO PO NARUDŽBI.
 
 _(Besplatna dostava za Mostar)_
 
-### TEŽINA: 1000 g
+### **Velika torta **/****Promjer: 24 cm / Težina: 1500 g cca / Cijena: 35 KM
 
-### CIJENA: 30 KM
+### **Mini torta **/****Promjer: 18 cm / Težina: 750 g cca / Cijena: 20 KM
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
