@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-07-13T12:22:29.502Z'
-datePublished: '2018-07-13T12:22:30.366Z'
+dateModified: '2018-07-13T12:23:09.184Z'
+datePublished: '2018-07-13T12:23:09.763Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ PRAVIMO PO NARUDŽBI.
 
 _(Besplatna dostava za Mostar)_
 
-### **Velika Torta **/****Promjer: 24 cm / Težina: 1500 g cca / Cijena: 35 KM
+### **Velika torta **/****Promjer: 24 cm / Težina: 1500 g cca / Cijena: 35 KM
 
 ### **Mini torta **/****Promjer: 18 cm / Težina: 750 g cca / Cijena: 20 KM
 [Messenger][0]
