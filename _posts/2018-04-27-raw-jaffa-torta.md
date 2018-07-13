@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Raw slastice su napravljene od sirovih prirodnih i kvalitetnih sastojaka bez
   termičke obrade. One su zdrave, zasitne, energetske i bogate okusom.
-dateModified: '2018-07-13T12:47:42.346Z'
-datePublished: '2018-07-13T12:47:42.919Z'
+dateModified: '2018-07-13T13:02:15.950Z'
+datePublished: '2018-07-13T13:02:16.624Z'
 title: RAW JAFFA TORTA
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVI
 
 _(Besplatna dostava za Mostar)_
 
-### **Velika torta **/****Promjer: 24 cm / Težina: cca.1500 g / Cijena: 35 KM
+### **Velika torta **/****Promjer: 24 cm / Težina: cca. 1500 g / Cijena: 35 KM
 
 ### **Mini torta **/****Promjer: 18 cm / Težina: cca. 750 g / Cijena: 20 KM
 [Messenger][0]
