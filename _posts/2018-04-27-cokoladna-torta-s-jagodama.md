@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Stiglo nam je proljeće a sa njim slasne i sočne domaće jagode. Čokolada i
   jagode, savšena kombinacija kojoj je teško odoljeti.
-dateModified: '2018-07-13T13:02:27.591Z'
-datePublished: '2018-07-13T13:02:28.102Z'
+dateModified: '2018-07-13T13:05:36.537Z'
+datePublished: '2018-07-13T13:05:37.360Z'
 title: ČOKOLADNA TORTA S JAGODAMA
 author: []
 publisher: {}
