@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Lagana i osvježavajuća, idealna slastica za toplije dane.'
-dateModified: '2018-07-13T12:17:21.778Z'
-datePublished: '2018-07-13T12:17:23.011Z'
+dateModified: '2018-07-13T12:22:09.591Z'
+datePublished: '2018-07-13T12:22:10.384Z'
 title: ŠUMSKA KRALJICA
 author: []
 publisher: {}
@@ -26,9 +26,9 @@ PRAVIMO PO NARUDŽBI.
 
 _(Besplatna dostava za Mostar)_
 
-### **Torta **/****Promjer: 24 cm / Težina: 1500 g cca / CIJENA: 35 KM
+### **Torta **/****Promjer: 24 cm / Težina: 1500 g cca / Cijena: 35 KM
 
-### **Mini torta **/****Promjer: 18 cm / Težina: 750 g cca / CIJENA: 20 KM
+### **Mini torta **/****Promjer: 18 cm / Težina: 750 g cca / Cijena: 20 KM
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
