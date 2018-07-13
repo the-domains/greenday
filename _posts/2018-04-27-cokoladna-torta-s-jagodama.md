@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Stiglo nam je proljeće a sa njim slasne i sočne domaće jagode. Čokolada i
   jagode, savšena kombinacija kojoj je teško odoljeti.
-dateModified: '2018-07-13T12:47:55.543Z'
-datePublished: '2018-07-13T12:47:56.100Z'
+dateModified: '2018-07-13T13:02:27.591Z'
+datePublished: '2018-07-13T13:02:28.102Z'
 title: ČOKOLADNA TORTA S JAGODAMA
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVI
 
 _(Besplatna dostava za Mostar)_
 
-### **Velika torta **/****Promjer: 24 cm / Težina: cca.1500 g / Cijena: 35 KM
+### **Velika torta **/****Promjer: 24 cm / Težina: cca. 1500 g / Cijena: 35 KM
 
 ### **Mini torta **/****Promjer: 18 cm / Težina: cca. 750 g / Cijena: 20 KM
 [Messenger][0]
