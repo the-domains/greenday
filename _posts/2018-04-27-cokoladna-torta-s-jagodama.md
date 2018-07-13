@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Stiglo nam je proljeće a sa njim slasne i sočne domaće jagode. Čokolada i
   jagode, savšena kombinacija kojoj je teško odoljeti.
-dateModified: '2018-07-13T12:24:49.320Z'
-datePublished: '2018-07-13T12:24:49.912Z'
+dateModified: '2018-07-13T12:47:55.543Z'
+datePublished: '2018-07-13T12:47:56.100Z'
 title: ČOKOLADNA TORTA S JAGODAMA
 author: []
 publisher: {}
@@ -26,9 +26,9 @@ Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVI
 
 _(Besplatna dostava za Mostar)_
 
-### **Velika torta **/****Promjer: 24 cm / Težina: 1500 g cca / Cijena: 35 KM
+### **Velika torta **/****Promjer: 24 cm / Težina: cca.1500 g / Cijena: 35 KM
 
-### **Mini torta **/****Promjer: 18 cm / Težina: 750 g cca / Cijena: 20 KM
+### **Mini torta **/****Promjer: 18 cm / Težina: cca. 750 g / Cijena: 20 KM
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
