@@ -4,8 +4,8 @@ description: >-
   Sastojci: Kukuruzno brašno, Kukuruzni škrob, Brašno od sjemenki lana, Brašno
   do sjemenki bundeve i suncokreta, Psillyum, Ekstra djevičansko maslinovo ulje,
   Mix sjemenki : zlatnog lana, suncokreta, sezama i bundeve, Morska sol, Kvasac.
-dateModified: '2018-11-19T20:50:05.693Z'
-datePublished: '2018-11-19T20:50:06.447Z'
+dateModified: '2018-11-19T21:00:06.442Z'
+datePublished: '2018-11-19T21:00:07.497Z'
 title: INTEGRALNI KRUH 4 ZRNA
 author: []
 publisher: {}
@@ -26,6 +26,6 @@ _(Besplatna dostava za Mostar)_
 ### TEŽINA: 720 g
 
 ### CIJENA: 10 KM
-[MESENGER][0]
+[MESSENGER][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
