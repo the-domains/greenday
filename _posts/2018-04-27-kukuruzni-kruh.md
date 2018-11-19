@@ -4,8 +4,8 @@ description: >-
   Sastojci: BIO Kukuruzno brašno, BIO Kukuruzna palenta, Kukuruzni škrob, Rižino
   integralno brašno, BIO Ekstra djevičansko kokosovo ulje, Psyllium, Prašak za
   pecivo vinskog kamena, Morska sol.
-dateModified: '2018-05-10T13:01:43.300Z'
-datePublished: '2018-05-10T13:01:44.240Z'
+dateModified: '2018-11-19T20:29:10.204Z'
+datePublished: '2018-11-19T20:29:11.331Z'
 title: KUKURUZNI KRUH
 author: []
 publisher: {}
@@ -28,7 +28,7 @@ _(Besplatna dostava za Mostar)_
 
 ## TEŽINA: 700 g
 
-## CIJENA: 9,5 KM
+## CIJENA: 10 KM
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
