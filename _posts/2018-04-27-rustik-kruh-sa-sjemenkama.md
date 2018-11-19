@@ -4,8 +4,8 @@ description: >-
   Sastojci: Rižino integralno brašno, BIO Suncokretove sjemenke, BIO Bučine
   sjemenke, BIO Lan, BIO Sezam, Kukuruzni škrob, Morska Sol, Prirodni Kvasac,
   Voda.
-dateModified: '2018-05-10T13:14:08.730Z'
-datePublished: '2018-05-10T13:14:09.880Z'
+dateModified: '2018-11-19T20:29:28.995Z'
+datePublished: '2018-11-19T20:29:30.052Z'
 title: RUSTIK KRUH
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera.PRAVIM
 
 ### TEŽINA: 720 g
 
-### CIJENA: 9,5 KM
+### CIJENA: 10 KM
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
