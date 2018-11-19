@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Sastojci: Rižino brašno, Krompirov škrob, Tapioka, Psilium, BIO Kvasac, Sol,
   BIO Mlijeko, Maslac, BIO Jaja.
-dateModified: '2018-11-19T20:28:49.836Z'
-datePublished: '2018-11-19T20:28:50.480Z'
+dateModified: '2018-11-19T20:48:59.378Z'
+datePublished: '2018-11-19T20:49:00.206Z'
 title: MILKY KRUH
 author: []
 publisher: {}
