@@ -4,8 +4,8 @@ description: >-
   Ako volite Bounty onda je ovo slastica za vas. Sočni i fini kremasti puding sa
   prosom, kokosom i čokoladnim preljevom od datulja. Uživajte svim čulima u
   našim zdravim slasticama.
-dateModified: '2018-11-19T20:52:40.035Z'
-datePublished: '2018-11-19T20:52:41.180Z'
+dateModified: '2018-11-19T21:06:23.233Z'
+datePublished: '2018-11-19T21:06:24.545Z'
 title: ČOKO-KOKO PUDING
 author: []
 publisher: {}
