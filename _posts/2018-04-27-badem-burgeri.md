@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Keksići bez brašna, bogatog okusa badema. Idealni kao užina, savršeni uz kavu
   ili čaj.
-dateModified: '2018-10-26T12:17:35.899Z'
-datePublished: '2018-10-26T12:17:36.761Z'
+dateModified: '2018-11-19T20:27:25.439Z'
+datePublished: '2018-11-19T20:27:26.459Z'
 title: BADEM BURGERI
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVI
 
 _(Besplatna dostava za Mostar)_
 
-### CIJENA: 1.80 KM / komadu
+### CIJENA: 27 KM / 15 komada
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
