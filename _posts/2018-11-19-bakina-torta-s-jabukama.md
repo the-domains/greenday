@@ -1,18 +1,15 @@
 ---
 inFeed: true
-description: >-
-  Sastojci: Jabuke, Orasi, BIO Jaja, Maslac, Stevia, Integralno rižino brašno,
-  Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za
-  pecivo, Cimet, Milječno vrhnje.
-dateModified: '2018-11-19T20:48:22.321Z'
-datePublished: '2018-11-19T20:48:23.260Z'
+description: "Sastojci:\_Jabuke, Orasi, BIO Jaja, Maslac, Stevia, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Cimet, Milječno vrhnje."
+dateModified: '2018-11-19T20:48:59.378Z'
+datePublished: '2018-11-19T20:49:00.495Z'
 title: BAKINA TORTA S JABUKAMA
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-11-19-bakina-torta-s-jabukama.md
 starred: false
 datePublishedOriginal: '2018-11-19T20:48:23.260Z'
-sourcePath: _posts/2018-11-19-bakina-torta-s-jabukama.md
 _type: Blurb
 
 ---
