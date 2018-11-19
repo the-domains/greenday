@@ -4,8 +4,8 @@ description: >-
   Sastojci: Rižino integralno brašno, Kukuruzni škrob, Maslac, Jaje, Stevia, BIO
   Cejlonski cimet, BIO Korica naranče, BIO Med, BIO Bezglutenski Prašak za
   Pecivo.
-dateModified: '2018-05-10T13:00:48.327Z'
-datePublished: '2018-05-10T13:00:48.908Z'
+dateModified: '2018-11-19T20:26:08.692Z'
+datePublished: '2018-11-19T20:26:09.519Z'
 title: MEDENJACI
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVI
 
 _(Besplatna dostava za Mostar)_
 
-### CIJENA: 1KM/komadu
+### CIJENA: 15 KM/300g
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
