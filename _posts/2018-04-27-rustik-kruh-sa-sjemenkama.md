@@ -4,8 +4,8 @@ description: >-
   Sastojci: Rižino integralno brašno, BIO Suncokretove sjemenke, BIO Bučine
   sjemenke, BIO Lan, BIO Sezam, Kukuruzni škrob, Morska Sol, Prirodni Kvasac,
   Voda.
-dateModified: '2018-11-19T20:48:59.378Z'
-datePublished: '2018-11-19T20:49:00.495Z'
+dateModified: '2018-11-19T20:52:40.035Z'
+datePublished: '2018-11-19T20:52:41.185Z'
 title: RUSTIK KRUH
 author: []
 publisher: {}
