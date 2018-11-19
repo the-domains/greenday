@@ -1,8 +1,11 @@
 ---
 inFeed: true
-description: "Sastojci:\_Jabuke, Orasi, BIO Jaja, Maslac, Stevia, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Cimet, Milječno vrhnje."
-dateModified: '2018-11-19T20:48:59.378Z'
-datePublished: '2018-11-19T20:49:00.495Z'
+description: >-
+  Sastojci: Jabuke, Orasi, BIO Jaja, Maslac, Stevia, Integralno rižino brašno,
+  Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za
+  pecivo, Cimet, Milječno vrhnje, Agavin sirup.
+dateModified: '2018-11-19T20:51:28.671Z'
+datePublished: '2018-11-19T20:51:29.666Z'
 title: BAKINA TORTA S JABUKAMA
 author: []
 publisher: {}
@@ -16,7 +19,7 @@ _type: Blurb
 # BAKINA TORTA S JABUKAMA
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b22474e-aa99-4b7a-b38f-fab3d4ed34f0.jpg)
 
-**Sastojci:** Jabuke, Orasi, BIO Jaja, Maslac, Stevia, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Cimet, Milječno vrhnje.
+**Sastojci:** Jabuke, Orasi, BIO Jaja, Maslac, Stevia, Integralno rižino brašno, Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za pecivo, Cimet, Milječno vrhnje, Agavin sirup.
 
 Ovi sastojci prirodno ne sadrže gluten. Bez dodatka rafiniranih šećera. PRAVIMO PO NARUDŽBI.
 
