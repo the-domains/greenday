@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Prhki i slasni keksići idealni da upotpune kavu ili čaj.
-dateModified: '2018-05-10T13:01:00.754Z'
-datePublished: '2018-05-10T13:01:01.494Z'
+dateModified: '2018-11-19T20:27:58.041Z'
+datePublished: '2018-11-19T20:27:58.882Z'
 title: GREEN DAY KEKSIĆI
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ PRAVIMO PO NARUDŽBI.
 
 _(Besplatna dostava za Mostar)_
 
-### CIJENA: 1 KM/komadu.
+### CIJENA: 15 KM/300g
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
