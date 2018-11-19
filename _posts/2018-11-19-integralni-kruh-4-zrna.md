@@ -4,8 +4,8 @@ description: >-
   Sastojci: Kukuruzno brašno, Kukuruzni škrob, Brašno od sjemenki lana, Brašno
   do sjemenki bundeve i suncokreta, Psillyum, Ekstra djevičansko maslinovo ulje,
   Mix sjemenki : zlatnog lana, suncokreta, sezama i bundeve, Morska sol, Kvasac.
-dateModified: '2018-11-19T20:40:00.428Z'
-datePublished: '2018-11-19T20:40:00.698Z'
+dateModified: '2018-11-19T20:48:59.378Z'
+datePublished: '2018-11-19T20:49:00.350Z'
 title: Integralni kruh 4 zrna
 author: []
 publisher: {}
