@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Sastojci: Rižino brašno, Krompirov škrob, Tapioka, Psilium, BIO Kvasac, Sol,
   BIO Mlijeko, Maslac, BIO Jaja.
-dateModified: '2018-05-10T13:01:25.799Z'
-datePublished: '2018-05-10T13:01:26.507Z'
+dateModified: '2018-11-19T20:28:48.227Z'
+datePublished: '2018-11-19T20:28:49.041Z'
 title: MILKY KRUH
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ _(Besplatna dostava za Mostar)_
 
 ### TEŽINA: 900 g
 
-### CIJENA: 10,5 KM
+### CIJENA: 10 KM
 [Messenger][0]
 
 [0]: https://www.messenger.com/t/greenday.kolaci.peciva
