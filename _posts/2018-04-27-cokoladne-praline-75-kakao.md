@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Imate priliku probati pravu pravcatu čokoladu izrađenu od samo 2 osnovna
   sastojka.
-dateModified: '2018-05-10T13:00:22.294Z'
-datePublished: '2018-05-10T13:00:23.305Z'
+dateModified: '2018-11-19T20:48:59.378Z'
+datePublished: '2018-11-19T20:49:00.496Z'
 title: ČOKOLADNE PRALINE (75% kakao)
 author: []
 publisher: {}
