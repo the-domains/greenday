@@ -4,8 +4,8 @@ description: >-
   Sastojci: Kukuruzno brašno, Kukuruzni škrob, Brašno od sjemenki lana, Brašno
   do sjemenki bundeve i suncokreta, Psillyum, Ekstra djevičansko maslinovo ulje,
   Mix sjemenki : zlatnog lana, suncokreta, sezama i bundeve, Morska sol, Kvasac.
-dateModified: '2018-11-19T20:36:35.587Z'
-datePublished: '2018-11-19T20:36:36.539Z'
+dateModified: '2018-11-19T20:39:12.769Z'
+datePublished: '2018-11-19T20:39:13.812Z'
 title: Integralni kruh 4 zrna
 author: []
 publisher: {}
@@ -26,3 +26,5 @@ _(Besplatna dostava za Mostar)_
 TEŽINA: 720 g
 
 CIJENA: 10 KM
+
+<button data-role="cta" style="">MESENGER</button>
