@@ -4,8 +4,8 @@ description: >-
   Sastojci: Jabuke, Orasi, BIO Jaja, Maslac, Stevia, Integralno rižino brašno,
   Bijelo rižino brašno, Krompirov škrob, Tapioka škrob, Bezglutenski prašak za
   pecivo, Cimet, Milječno vrhnje, Agavin sirup.
-dateModified: '2018-11-19T20:52:40.035Z'
-datePublished: '2018-11-19T20:52:41.189Z'
+dateModified: '2018-11-19T21:00:58.577Z'
+datePublished: '2018-11-19T21:00:59.632Z'
 title: BAKINA TORTA S JABUKAMA
 author: []
 publisher: {}
@@ -28,3 +28,6 @@ _(Besplatna dostava za Mostar)_
 ### **Velika torta /Promjer: 24 cm / Težina: cca. 1500 g / Cijena: 35 KM**
 
 ### **Mini torta /Promjer: 18 cm / Težina: cca. 750 g / Cijena: 20 KM**
+[MESSENGER][0]
+
+[0]: https://www.messenger.com/t/greenday.kolaci.peciva
